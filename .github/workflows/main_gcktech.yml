@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'gcktech'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F4DD0181A1054F3D9CB1C4761999BD70 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_069A727F49FF43D8B38DB84A0F9A83F1 }}
           package: .
